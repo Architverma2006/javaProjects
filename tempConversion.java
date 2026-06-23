@@ -20,6 +20,8 @@ public class tempConversion {
 
         System.out.printf("New temperature is %f %s\n", newTemp, unit);
 
+        scanner.close();
+
 
 
     }
