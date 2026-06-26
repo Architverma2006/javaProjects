@@ -14,5 +14,7 @@ public class countdown {
             Thread.sleep(1000);
         }
         System.out.println("Rocket Launched");
+
+        scanner.close();
     }
 }
