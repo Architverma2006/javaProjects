@@ -5,7 +5,7 @@ public class banking {
 
     public static void main(String[] args) {
 
-        // Java Banking Programme for Beginner
+        // Java Banking Program for Beginner
 
         // Declare Variable
 
